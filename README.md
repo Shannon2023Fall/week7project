@@ -31,5 +31,9 @@ x1-> git remote rm origin
 x2-> git remote add origin https://github.com/....git
 4-> git add .
 5-> git push -u origin main
+<<<<<<< HEAD
+
+=======
+>>>>>>> dd2037b76ef05a8f3f39bd16396cd05db65d105e
 
 
